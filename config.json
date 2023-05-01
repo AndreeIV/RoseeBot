@@ -1,0 +1,10 @@
+{
+    "emojis": {
+        "play": "▶",
+        "stop": "⏹️",
+        "queue": "📄",
+        "success": "☑",
+        "repeat": "🔁",
+        "error": "❌"
+    }
+}
